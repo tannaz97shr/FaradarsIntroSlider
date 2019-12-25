@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FaradarsIntroSlider</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_description">the easiest way to order food from your favorite resturant !</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_description">Book movie tickets for your family and friends</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_description">Best discounts for every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_description">Book tickets for any transportation and travel the world</string>
+
+    <string name="SKIP">Skip</string>
+    <string name="NEXT">Next</string>
+    <string name="GOTIT">GOT IT!</string>
+
+
+    <string-array name="slide_titles">
+        <item>@string/slide_1_title</item>
+        <item>@string/slide_2_title</item>
+        <item>@string/slide_3_title</item>
+        <item>@string/slide_4_title</item>
+    </string-array>
+
+    <string-array name="slide_description">
+        <item>@string/slide_1_description</item>
+        <item>@string/slide_2_description</item>
+        <item>@string/slide_3_description</item>
+        <item>@string/slide_4_description</item>
+    </string-array>
+
+</resources>

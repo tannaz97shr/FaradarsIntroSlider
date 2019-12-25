@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="slide_title_text_size">24sp</dimen>
+    <dimen name="slide_disc_text_size">16dp</dimen>
+    <dimen name="slide_ic_size_wh">128dp</dimen>
+    <dimen name="slide_title_margin_top">20dp</dimen>
+    <dimen name="slide_desc_margin_top">20dp</dimen>
+    <dimen name="slide_desc_paddinf_rl">40dp</dimen>
+    <dimen name="dots_hight">20dp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+
+</resources>
